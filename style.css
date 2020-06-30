@@ -91,7 +91,7 @@ header {
 }
 
 .logo {
-    width: 124px;
+    width: 180px;
     margin-top: 20px;
 }
 
@@ -192,16 +192,13 @@ header {
     box-shadow: none;
 }
 
-footer img {
-    width: 125px;
-}
-
 footer p {
     color: #b3aeb5;
     font-size: 12px;
 }
 
 footer {
+    background-color: #5f5d60;
     padding-top: 30px;
     padding-bottom: 20px;
 }
